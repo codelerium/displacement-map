@@ -1,0 +1,24 @@
+{
+  "name": "irregular-gradient-mesh",
+  "version": "1.0.0",
+  "description": "Canvas based displacement mapping test",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel -p 8000 index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codelerium/irregular-gradient-mesh.git"
+  },
+  "keywords": [],
+  "author": "Dániel Jung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codelerium/irregular-gradient-mesh/issues"
+  },
+  "homepage": "https://github.com/codelerium/irregular-gradient-mesh#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-preset-stage-0": "^6.24.1"
+  }
+}
